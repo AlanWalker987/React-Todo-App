@@ -1,3 +1,9 @@
+
+
+### `npm install`
+
+This will install the neccessary dependencies to the project.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
