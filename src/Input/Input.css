@@ -1,0 +1,27 @@
+.InputBar::placeholder {
+  color: #5f6769;
+}
+
+.SubmitBttn,
+.InputBar {
+  padding: 4px 5px;
+}
+
+.SubmitBttn {
+  border-width: 0;
+  border-radius: 3px;
+  margin-left: 4px;
+  height: 34px;
+  border: 1px solid gainsboro;
+  font-size: 1rem;
+}
+
+.InputBar {
+  margin-top: 10px;
+  border-width: 0;
+  border-radius: 3px;
+  width: 80%;
+  font-size: 1rem;
+  height: 24px;
+  border: 1px solid gainsboro;
+}
